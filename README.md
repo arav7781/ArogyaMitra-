@@ -44,13 +44,13 @@ Streamlit run app.py
 ```
 ## Usage
 
-Start the dashboard and use voice commands for interaction.
-Upload a wound image for AI-powered diagnosis.
-Book an appointment through voice input.
+Start the dashboard and use voice commands for interaction to book any appointment using tab1.
 Receive an email confirmation for scheduled appointments.
+Ask any health related query to ArogyaMitra Chatbot for AI-powered diagnosis.
+Start Live Webcam for suggestions ralted to Cuts and Wound upto a certain threshold level.
 
 ## Future Enhancements
 
 Integration with electronic health records (EHR) for personalized healthcare insights.
 Multi-language support for broader accessibility.
-AI-powered medication recommendations based on medical history.
+
