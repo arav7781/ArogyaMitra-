@@ -16,14 +16,14 @@ ArogyaMitra is an AI-powered virtual nurse assistant designed to provide intelli
 
 ## Technology Stack  
 
-- **Frontend**: React.js  
-- **Backend**: Flask / FastAPI  
+- **Frontend**: Streamlit 
+- **Backend**: Flask 
 - **AI Models**:  
-  - NLP-based chatbot (Transformers, OpenAI API)  
-  - CNN-based wound analysis for medical image processing  
+  - NLP-based chatbot(Groq API,Whisper-large-v3,gemma2,deepgram client,ultravox)
+  - Finetuned Qwen2.5VL-7B-Instruct based wound analysis for medical image(frames) processing  
   - Scheduling automation (Google Calendar API, Twilio)  
-- **Database**: PostgreSQL / Firebase  
-- **Email Service**: SMTP, SendGrid  
+- **Database**: ChromaDB/SQL
+- **Email Service**: SMTP,Phidata
 
 ## Installation  
 
