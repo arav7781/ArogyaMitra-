@@ -47,7 +47,7 @@ Streamlit run app.py
 Start the dashboard and use voice commands for interaction to book any appointment using tab1.
 Receive an email confirmation for scheduled appointments.
 Ask any health related query to ArogyaMitra Chatbot for AI-powered diagnosis.
-Start Live Webcam for suggestions ralted to Cuts and Wound upto a certain threshold level.
+Uploads image and Videos for suggestions ralted to Cuts and Wound upto a certain threshold level.
 
 ## Future Enhancements
 
