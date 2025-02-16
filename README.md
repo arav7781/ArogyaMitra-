@@ -1,6 +1,6 @@
    ![image](https://github.com/user-attachments/assets/c4ae9ba9-312e-4096-a32c-0434ca17b80b)
 
-### ArogyaMitra: AI-Powered Virtual Nurse  
+# ArogyaMitra: AI-Powered Virtual Nurse  
 
 ## Overview  
 
